@@ -1,2 +1,14 @@
-# Topsy
-Keneth Kyalo
+# Hi there, I'm [Keneth Kyalo] 👋
+
+## About Me
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+
+## My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenethkyalo&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenethkyalo&layout=compact&theme=radical)
