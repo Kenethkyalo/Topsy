@@ -8,7 +8,7 @@
 - 📫 How to reach me: ...
 
 ## My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenethkyalo&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenethkyalo)](https://github.com/kenethkyalo/github-readme-stats)
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenethkyalo&layout=compact&theme=radical)
